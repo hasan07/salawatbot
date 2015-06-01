@@ -3,7 +3,7 @@
 import praw
 import time
 
-SALAWAT_TEXT = '[Salawat](%s) ^(I am a bot)' %'http://i.imgur.com/TyQPbKQ.jpg'
+SALAWAT_TEXT = '[Salawat](%s) ^(I am a bot. I replied because you mentioned the prophet pbuh.)' %'http://i.imgur.com/TyQPbKQ.jpg'
 
 MATCH_STRINGS = [
 	'prophet muhammad',
